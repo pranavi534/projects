@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CovidData</string>
+    <string name="input">input</string>
+    <string name="dayone">dayone/country/{input}</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="dayone">dayone/country/{input}</string>
+    <string name="day">dayone/country/{input}</string>
+</resources>
